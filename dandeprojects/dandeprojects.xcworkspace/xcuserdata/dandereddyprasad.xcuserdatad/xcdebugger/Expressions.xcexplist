@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MainPlacementsViewController.collectionView(_:numberOfItemsInSection:):MainPlacementsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Placedata[section].count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserLoginViewController.readPropertyList():UserLoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "datasourceDictionary[&quot;serverip&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainPlacementsViewController.collectionView(_:viewForSupplementaryElementOfKind:at:):MainPlacementsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in PlaceFirSecViewController.NitsserverRequest(startIndex:endIndext:):PlaceFirSecViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(data: data, encoding: .utf8)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainPlacementsViewController.collectionView(_:cellForItemAt:):MainPlacementsViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

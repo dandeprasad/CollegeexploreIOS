@@ -1,0 +1,10 @@
+platform :ios, '8.1'
+use_frameworks!
+target "dandeprojects" do
+pod 'Firebase'
+pod 'GoogleSignIn'
+pod 'SDWebImage/WebP'
+pod 'Toaster'
+pod 'AACarousel'
+pod 'Kingfisher', '~> 4.0'
+end
